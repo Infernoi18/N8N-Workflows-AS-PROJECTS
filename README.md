@@ -8,9 +8,9 @@ A collection of automation workflows built with **N8N** to streamline lead gener
 
 | Category     | Tools / APIs Used                                                     |
 |--------------|----------------------------------------------------------------------|
-| Automation   | N8N, Webhooks, Cron, Function Nodes                                  |
+| Automation   | N8N, Webhooks, Function Nodes                                        |
 | APIs         | Gmail API, Google Places API (Advanced), Google Search/Maps, OpenAI   |
-| Storage      | Google Sheets, Excel, Notion (optional)                              |
+| Storage      | Google Sheets, Excel                                                 |
 | Communication| Email Campaigns, Lead Outreach                                       |
 | Output       | CSV, JSON, Sheet Updates, Email Triggers                             |
 
